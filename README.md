@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm martin a developer that makes stupid and sometimes good games, tools, and a bunch of more stuff
 
-[My projects](https://martinsuii.github.io)
+[My projects](https://martinsuii.is-a.dev)
 
 **I use arch BTW**
